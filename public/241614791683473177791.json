@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41014739068",
+    "project_id": "sma3-3eaa3",
+    "storage_bucket": "sma3-3eaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41014739068:android:24b5c0cc23b0c9fed409f9",
+        "android_client_info": {
+          "package_name": "com.pinjol30menitcair.pinjamanonlinemudahcair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41014739068-t271tcdtu3l5jg9abb2juna7hah6c98b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKUEKvju4Pf0bujx05CRmI_XcodSrTkfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41014739068-t271tcdtu3l5jg9abb2juna7hah6c98b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
